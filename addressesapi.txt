@@ -24,3 +24,4 @@
 150.230.105.112:443#JP
 47.57.181.17:443#HK
 freeyx.cloudflare88.eu.org:443#Global
+proxyip.hk.fxxk.dedyn.io:443#HK Test
